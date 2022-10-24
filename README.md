@@ -5,27 +5,12 @@ Bu repository [Kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde olu
 ![Resim](https://i.hizliresim.com/e4cqd54.png)
 
 
-## Installation
-
-Öncelikle projeyi clonelayın. 
-
-```bash
-git clone https://github.com/egementsdmr/KodluyoruzIlkRepository
-```
-
-## Usage
-
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
-```linux
-cd KodluyoruzIlkRepository
-code .
-```
-
 ## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Katkılarından dolayı Kodluyoruz ve Patika.dev ekibine teşekkürler.
 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Patika.dev Profilim
+https://app.patika.dev/egementasdemir
