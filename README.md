@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repository
 
-Bu repository [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
+Bu repository [Kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde oluşturduğum ilk repository. İçerisinde bir adet README.md dosyası, bir adet de index.html barındırıyor.
 
 ![Resim](https://i.hizliresim.com/e4cqd54.png)
 
